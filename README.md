@@ -5,7 +5,7 @@
 # Ürün İle İlgili Bilgiler
   
 
-**Takım Elemanları**
+## Takım Elemanları
 
  •	Gülşah Kaya: Product Owner/Developer
 
@@ -18,19 +18,19 @@
  •	Zahit Dereli: Team Member/Developer
 
 
-# Ürün İsmi
+## Ürün İsmi
 
  Parallel Universe
 
 
-# Ürün Açıklaması
+## Ürün Açıklaması
 
   Parallel Universe; bilim kurgu, tek oyunculu, üçüncü şahıs ve macera türünün çarpıcı bir temsilcisidir. 
  
   Ana karakter olan profesör, yardımcısı ile paralel evrenlere geçiş sağlayacak bir portal tabancası geliştirirken bir kaza sonucu asistanı başka bir evrene gidiyor. 
   Oyunumuz, profesörümüz asistanını bulmak için paralel evrenler arası seyahat ederken ve evrenlerin koruyucularından kaçarken başına gelen maceraları anlatıyor.
  
-# Ürün Özellikleri
+## Ürün Özellikleri
 
  •	Güncel liderlik tablosu
 
@@ -41,7 +41,7 @@
  •	Eşsiz VFX Graph efektleri
 
 
-# Hedef Kitle
+## Hedef Kitle
 
  •	Bilgisayar ve oyun konsolu kullanıcıları
 
@@ -52,7 +52,7 @@
  •	15 - 45 yaş arası kullanıcılar
 
 
-# Product Backlog URL
+## Product Backlog URL
 
  https://trello.com/b/6lCf3DdO/bootcamp-138
 
