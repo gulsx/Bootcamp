@@ -28,7 +28,7 @@
   Parallel Universe; bilim kurgu, tek oyunculu, üçüncü şahıs ve macera türünün çarpıcı bir temsilcisidir. 
  
   Ana karakter olan profesör, yardımcısı ile paralel evrenlere geçiş sağlayacak bir portal tabancası geliştirirken bir kaza sonucu asistanı başka bir evrene gidiyor. 
-  Oyunumuz, profesörümüz asistanını bulmak için paralel evrenler arası seyahat ederken ve evrenlerin koruyucularından kaçarken başına gelen maceraları anlatıyor.
+  Oyunu, profesörün asistanını bulmak için paralel evrenler arası seyahat ederken ve evrenlerin koruyucularından kaçarken başına gelen maceraları anlatıyor.
  
 ## Ürün Özellikleri
 
