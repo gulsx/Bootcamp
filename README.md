@@ -64,9 +64,13 @@ ________________________________________
 
 •	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 •	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+
 Hikaye ve oyun kurgusu belirlenmesi. (25p)
+
 İlk portal efektinin düzenlenmesi. (25p)
+
 İlk ve ikinci level sahnelerinin tasarlanması. (25p)
+
 İlgili karakterlerlerin animasyonlarının oluşturulması. (25p)
 
 •	Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
