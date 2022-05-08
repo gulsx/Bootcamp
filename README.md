@@ -63,6 +63,7 @@ ________________________________________
 •	Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 •	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
 •	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
 
 Hikaye ve oyun kurgusu belirlenmesi. (25p)
@@ -73,10 +74,10 @@ Hikaye ve oyun kurgusu belirlenmesi. (25p)
 
 İlgili karakterlerlerin animasyonlarının oluşturulması. (25p)
 
-•	Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+•	Backlog Düzeni ve Story Seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize edilen iş takibi sütunları; yapılacak işleri ve halen yapılıyor olan çalışmaları temsil etmektedir.
 
-•	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+•	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü, ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 •	Sprint Board Update:
 ![1](https://user-images.githubusercontent.com/100169931/167312713-242b73be-57a9-4817-a817-cdd719a9a7bc.png)
@@ -85,7 +86,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 
 •	Ürün Durumu:  
 
-•	Sprint Review: Alınan kararlar: Veritabanı uygulaması leader board oluşturulması için gerekli görülmüştür. Ancak ilgili işlem; level ve karakter tasarımı çalışmaları "tamamen" bitmediğinden dolayı bir sonraki sprint'e aktarılmıştır. Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
+•	Sprint Review: Veritabanı uygulaması leader board oluşturulması için gerekli görülmüştür. Ancak ilgili işlem; level ve karakter tasarımı çalışmaları "tamamen" bitmediğinden dolayı bir sonraki sprint'e aktarılmıştır. Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
 
 Sprint Review katılımcıları: 
 
@@ -100,8 +101,9 @@ Zahit Dereli - Developer & Level Designer
 Oğuzhan Kol - Developer & Character Animations
 
 •	Sprint Retrospective:
-o	Takım içinde; teknik konularda eksik olan ve yardım kanalından destek talep eden arkadaşların birbirine yardım etmesine yönelik düzenleme yapılması kararı alınmıştır.
-o	Scrum toplantılarında, yapılan iş ve düzenlemelerin takım içine duyurulması adına ayrılan süre arttırılmalı.
+	Takım içinde; teknik konularda eksik olan ve yardım kanalından destek talep eden arkadaşların birbirine yardım etmesine yönelik düzenleme yapılması kararı alınmıştır.
+  
+	Scrum toplantılarında, yapılan iş ve düzenlemelerin takım içine duyurulması adına ayrılan süre arttırılmalı.
 
 ________________________________________
 # Sprint 2
