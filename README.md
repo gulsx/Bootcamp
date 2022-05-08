@@ -60,28 +60,38 @@
 ________________________________________
 # Sprint 1
 
+•	Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-•	Sprint Notları: 
+•	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+Hikaye ve oyun kurgusu belirlenmesi. (25p)
+İlk portal efektinin düzenlenmesi. (25p)
+İlk ve ikinci level sahnelerinin tasarlanması. (25p)
+İlgili karakterlerlerin animasyonlarının oluşturulması. (25p)
 
- Sprint içinde tamamlanması tahmin edilen puan: 
+•	Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize edilen iş takibi sütunları; yapılacak işleri ve halen yapılıyor olan çalışmaları temsil etmektedir.
 
-•	Puan tamamlama mantığı: 
+•	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
 
-•	Backlog düzeni ve Story seçimleri: 
+•	Sprint Board Update:
+![1](https://user-images.githubusercontent.com/100169931/167312713-242b73be-57a9-4817-a817-cdd719a9a7bc.png)
 
-•	Daily Scrum: 
+![2](https://user-images.githubusercontent.com/100169931/167312715-c4a8b59c-f3bb-4079-b9c4-42107cc54bc9.png)
 
-•	Sprint board update:   
+•	Ürün Durumu: Ekran görüntüleri:  
 
-•	Ürün Durumu: 
-
-•	Sprint Review: 
+•	Sprint Review: Alınan kararlar: Veritabanı uygulaması leader board oluşturulması için gerekli görülmüştür. Ancak ilgili işlem; level ve karakter tasarımı çalışmaları "tamamen" bitmediğinden dolayı bir sonraki sprint'e aktarılmıştır. Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
+Sprint Review katılımcıları: 
+Burak Karagöz  - Scrum Master & Level Designer 
+Gülşah Kaya - Product Owner & Level Designer
+Çağla Şen - Developer & Effects
+Zahit Dereli - Developer & Level Designer 
+Oğuzhan Kol - Developer & Character Animations
 
 •	Sprint Retrospective:
-
-Diğer Notlar:
-
- •	N/A
+o	Takım içinde; teknik konularda eksik olan ve yardım kanalından destek talep eden arkadaşların birbirine yardım etmesine yönelik düzenleme yapılması kararı alınmıştır.
+o	Scrum toplantılarında, yapılan iş ve düzenlemelerin takım içine duyurulması adına ayrılan süre arttırılmalı.
 
 ________________________________________
 # Sprint 2
