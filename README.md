@@ -79,14 +79,20 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 
 ![2](https://user-images.githubusercontent.com/100169931/167312715-c4a8b59c-f3bb-4079-b9c4-42107cc54bc9.png)
 
-•	Ürün Durumu: Ekran görüntüleri:  
+•	Ürün Durumu:  
 
 •	Sprint Review: Alınan kararlar: Veritabanı uygulaması leader board oluşturulması için gerekli görülmüştür. Ancak ilgili işlem; level ve karakter tasarımı çalışmaları "tamamen" bitmediğinden dolayı bir sonraki sprint'e aktarılmıştır. Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
+
 Sprint Review katılımcıları: 
+
 Burak Karagöz  - Scrum Master & Level Designer 
+
 Gülşah Kaya - Product Owner & Level Designer
+
 Çağla Şen - Developer & Effects
+
 Zahit Dereli - Developer & Level Designer 
+
 Oğuzhan Kol - Developer & Character Animations
 
 •	Sprint Retrospective:
