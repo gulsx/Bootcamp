@@ -87,6 +87,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 
 
 •	Ürün Durumu: ![2](https://user-images.githubusercontent.com/100169931/167439080-a22abbdc-fcfc-471c-a1eb-73e080fbabe7.png)
+![3](https://user-images.githubusercontent.com/100169931/167439310-59e9bb68-f219-4109-9cdd-6501a576d4c2.png)
 
 
 •	Sprint Review: Veritabanı uygulaması leader board oluşturulması için gerekli görülmüştür. Ancak ilgili işlem; level ve karakter tasarımı çalışmaları "tamamen" bitmediğinden dolayı bir sonraki sprint'e aktarılmıştır. Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
