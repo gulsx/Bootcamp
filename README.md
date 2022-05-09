@@ -80,11 +80,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 •	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü, ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 •	Sprint Board Update:
-![1](https://user-images.githubusercontent.com/100169931/167312713-242b73be-57a9-4817-a817-cdd719a9a7bc.png)
+![2022-05-09](https://user-images.githubusercontent.com/100169931/167438089-dd8165e3-69a6-4c0d-a9f2-2f8555025097.png)
+
 
 ![2](https://user-images.githubusercontent.com/100169931/167312715-c4a8b59c-f3bb-4079-b9c4-42107cc54bc9.png)
 
-•	Ürün Durumu:  
+
+•	Ürün Durumu: ![2](https://user-images.githubusercontent.com/100169931/167439080-a22abbdc-fcfc-471c-a1eb-73e080fbabe7.png)
+
 
 •	Sprint Review: Veritabanı uygulaması leader board oluşturulması için gerekli görülmüştür. Ancak ilgili işlem; level ve karakter tasarımı çalışmaları "tamamen" bitmediğinden dolayı bir sonraki sprint'e aktarılmıştır. Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
 
@@ -102,8 +105,7 @@ Oğuzhan Kol - Developer & Character Animations
 
 •	Sprint Retrospective:
 	Takım içinde; teknik konularda eksik olan ve yardım kanalından destek talep eden arkadaşların birbirine yardım etmesine yönelik düzenleme yapılması kararı alınmıştır.
-  
-	Scrum toplantılarında, yapılan iş ve düzenlemelerin takım içine duyurulması adına ayrılan süre arttırılmalı.
+	Ek olarak, Scrum toplantılarında, yapılan iş ve düzenlemelerin takım içine duyurulması adına ayrılan süre arttırılmalı.
 
 ________________________________________
 # Sprint 2
