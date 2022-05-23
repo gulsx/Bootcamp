@@ -127,6 +127,9 @@ Portal efektinin düzenlenmesi. (25p)
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize edilen iş takibi sütunları; yapılacak işleri ve halen yapılıyor olan çalışmaları temsil etmektedir.
 
 •	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü, ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+	
+[DailyScrumMeetingNotesSprint1&Sprint2.docx](https://github.com/gulsx/Bootcamp/files/8757954/DailyScrumMeetingNotesSprint1.Sprint2.docx)
+
 
 •	Sprint Board Update:
 ![2022-05-09](https://user-images.githubusercontent.com/100169931/167438089-dd8165e3-69a6-4c0d-a9f2-2f8555025097.png)
