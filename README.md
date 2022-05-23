@@ -136,7 +136,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 
 
 •	Ürün Durumu: ![Uploading 2022-05-23.png…]()
-
+	
+![WhatsApp Image 2022-05-23 at 22 49 21](https://user-images.githubusercontent.com/104388299/169896925-08108b19-0eff-4b3e-89ce-a32f8fccc5ac.jpeg)
 
 
 •	Sprint Review: Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
@@ -159,6 +160,7 @@ Oğuzhan Kol - Developer & Character Animations
 	Test için bir an önce prototip ortaya çıkarmalıyız.
 	Ekip içerisinde iletişimi artırmalıyız.
 	
+	Product owner
 ________________________________________
 # Sprint 3
 
