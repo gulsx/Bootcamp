@@ -157,11 +157,19 @@ Zahit Dereli - Developer & Level Designer
 
 Oğuzhan Kol - Developer & Character Animations
 
-•	Sprint Retrospective:
-	Takım olarak birbirimiz ile haberli çalışmalıyız.
-	Sürecimiz planladığı gibi ilerliyor.
-	Test için bir an önce prototip ortaya çıkarmalıyız.
-	Ekip içerisinde iletişimi artırmalıyız.
+•	Sprint Retrospective;
+İşleri nasıl yapıyoruz?
+- Ekip içerisinde görev dağılımı yaptık. Bu görevleri tamamladığımızda belirlediğimiz kişide sonuçları toplayıp öyle ilerliyoruz.
+Eksiğimiz var mı?
+- Herhangi bir eksiğimiz yok. Planladığımız şekilde ilerlemekteyiz.
+Doğru gidiyormuyuz?
+- Herşey planlandığı gibi gidiyor.
+Neyi iyi yapıyoruz?
+- Bireysel çalışmalar ve bunları bir bütün haline getirmek.
+Neyi kötü yapıyoruz?
+- İletişimi biraz daha artırırsak çok daha hızlı ilerleyebiliriz.
+Neyi durdurmalıyız?
+- Şuan durdurmamız gereken birşey olmadığı konusunda hem fikiriz.
 	
 	Product owner
 ________________________________________
