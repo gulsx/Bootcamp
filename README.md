@@ -132,7 +132,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 
 
 •	Sprint Board Update:
-![2022-05-09](https://user-images.githubusercontent.com/100169931/167438089-dd8165e3-69a6-4c0d-a9f2-2f8555025097.png)
+![image](https://user-images.githubusercontent.com/104388299/169904856-e0c075e6-2627-4b0c-8a33-eced32a76798.png)
 
 
 ![2](https://user-images.githubusercontent.com/100169931/167312715-c4a8b59c-f3bb-4079-b9c4-42107cc54bc9.png)
