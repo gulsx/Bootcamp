@@ -155,7 +155,10 @@ Oğuzhan Kol - Developer & Character Animations
 
 •	Sprint Retrospective:
 	Takım olarak birbirimiz ile haberli çalışmalıyız.
-
+	Sürecimiz planladığı gibi ilerliyor.
+	Test için bir an önce prototip ortaya çıkarmalıyız.
+	Ekip içerisinde iletişimi artırmalıyız.
+	
 ________________________________________
 # Sprint 3
 
