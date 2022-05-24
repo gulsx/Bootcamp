@@ -162,7 +162,7 @@ Oğuzhan Kol - Developer & Character Animations
 - Ekip içerisinde görev dağılımı yaptık. Bu görevleri tamamladığımızda belirlediğimiz kişide sonuçları toplayıp öyle ilerliyoruz.
 Eksiğimiz var mı?
 - Herhangi bir eksiğimiz yok. Planladığımız şekilde ilerlemekteyiz.
-Doğru gidiyormuyuz?
+Doğru gidiyor muyuz?
 - Herşey planlandığı gibi gidiyor.
 Neyi iyi yapıyoruz?
 - Bireysel çalışmalar ve bunları bir bütün haline getirmek.
