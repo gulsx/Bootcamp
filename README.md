@@ -138,7 +138,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 ![2](https://user-images.githubusercontent.com/100169931/167312715-c4a8b59c-f3bb-4079-b9c4-42107cc54bc9.png)
 
 
-•	Ürün Durumu: ![Uploading 2022-05-23.png…]()
+•	Ürün Durumu: 
 	
 ![WhatsApp Image 2022-05-23 at 22 49 21](https://user-images.githubusercontent.com/104388299/169896925-08108b19-0eff-4b3e-89ce-a32f8fccc5ac.jpeg)
 
