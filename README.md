@@ -204,9 +204,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 ![image](https://user-images.githubusercontent.com/104388299/172232779-51a43546-a4fe-44fb-961b-f9823f268d86.png)
 
 
-•	Ürün Durumu: ![Uploading 2022-05-23.png…]()
-	
-![WhatsApp Image 2022-05-23 at 22 49 21](https://user-images.githubusercontent.com/104388299/169896925-08108b19-0eff-4b3e-89ce-a32f8fccc5ac.jpeg)
+•	Ürün Durumu: 
+
+
+
+https://user-images.githubusercontent.com/104388299/172233487-edbd8f91-c700-4d72-bcd2-ec4adf1a2c3a.mp4
+
+
 
 
 •	Sprint Review: Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
