@@ -238,7 +238,5 @@ Neyi iyi yapıyoruz?
 Neyi kötü yapıyoruz?
 - İletişimi biraz daha artırırsak çok daha hızlı ilerleyebiliriz.
 Neyi durdurmalıyız?
-- Şuan durdurmamız gereken birşey olmadığı konusunda hem fikiriz.
-	
-	Product owner
+- Şuan durdurmamız gereken birşey olmadığı konusunda hem fikiriz, Product Owner.
 
