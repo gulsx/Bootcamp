@@ -192,7 +192,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize 
 
 •	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü, ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 	
-[DailyScrumMeetingNotesSprint1&Sprint2.docx](https://github.com/gulsx/Bootcamp/files/8757954/DailyScrumMeetingNotesSprint1.Sprint2.docx)
+[DailyScrumMeetingNotesSprint1&Sprint2 & Sprint 3.docx](https://github.com/gulsx/Bootcamp/files/8847069/DailyScrumMeetingNotesSprint1.Sprint2.Sprint.3.docx)
+
 
 
 •	Sprint Board Update:
