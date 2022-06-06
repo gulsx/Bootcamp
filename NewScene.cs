@@ -24,5 +24,16 @@ public class NewScene : MonoBehaviour
         {
             SceneManager.LoadScene("FairyScene");
         }
+
+        if (other.gameObject.CompareTag("GoForest"))
+        {
+            SceneManager.LoadScene("ForestScene");
+        }
+
+        if (other.gameObject.CompareTag("UýEntryScene"))
+        {
+            SceneManager.LoadScene("SpaceShipScene");
+        }
+
     }
 }
