@@ -175,3 +175,66 @@ Neyi durdurmalıyız?
 ________________________________________
 # Sprint 3
 
+•	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+
+Sahnelerin bitirilmesi. (25p)
+
+Portal efektinin düzenlenmesi. (25p)
+
+Üçüncü level sahnelerinin tasarlanması. (25p)
+
+İlgili karakterlerlerin animasyonlarının bitmesi. (25p)
+
+•	Backlog Düzeni ve Story Seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da kategorize edilen iş takibi sütunları; yapılacak işleri ve halen yapılıyor olan çalışmaları temsil etmektedir.
+
+•	Daily Scrum: Daily Scrum toplantılarının arayüz kolaylığından ötürü, ilgili takımın Discord kanalı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+	
+[DailyScrumMeetingNotesSprint1&Sprint2.docx](https://github.com/gulsx/Bootcamp/files/8757954/DailyScrumMeetingNotesSprint1.Sprint2.docx)
+
+
+•	Sprint Board Update:
+![image](https://user-images.githubusercontent.com/104388299/172232718-14df8e52-08d9-40c4-a295-cffb4b0350c7.png)
+
+
+
+![image](https://user-images.githubusercontent.com/104388299/172232779-51a43546-a4fe-44fb-961b-f9823f268d86.png)
+
+
+•	Ürün Durumu: ![Uploading 2022-05-23.png…]()
+	
+![WhatsApp Image 2022-05-23 at 22 49 21](https://user-images.githubusercontent.com/104388299/169896925-08108b19-0eff-4b3e-89ce-a32f8fccc5ac.jpeg)
+
+
+•	Sprint Review: Ortaya koyulan üründe herhangi bir teknik arıza görülmemiştir. Arttırılması, devam edilmesi ve bahsi geçen sprintten sonra yapılmaması gereken özellik ve durumlar belirlenmiştir.
+
+Sprint Review katılımcıları: 
+
+Burak Karagöz  - Scrum Master & Level Designer 
+
+Gülşah Kaya - Product Owner & Level Designer
+
+Çağla Şen - Developer & Effects
+
+Zahit Dereli - Developer & Level Designer 
+
+Oğuzhan Kol - Developer & Character Animations
+
+•	Sprint Retrospective;
+İşleri nasıl yapıyoruz?
+- Ekip içerisinde görev dağılımı yaptık. Bu görevleri tamamladığımızda belirlediğimiz kişide sonuçları toplayıp öyle ilerliyoruz.
+Eksiğimiz var mı?
+- Herhangi bir eksiğimiz yok. Planladığımız şekilde ilerlemekteyiz.
+Doğru gidiyor muyuz?
+- Herşey planlandığı gibi gidiyor.
+Neyi iyi yapıyoruz?
+- Bireysel çalışmalar ve bunları bir bütün haline getirmek.
+Neyi kötü yapıyoruz?
+- İletişimi biraz daha artırırsak çok daha hızlı ilerleyebiliriz.
+Neyi durdurmalıyız?
+- Şuan durdurmamız gereken birşey olmadığı konusunda hem fikiriz.
+	
+	Product owner
+
